@@ -1,2 +1,3 @@
-# esx-modding
-some mods to do on esx
+# G2 SHFW Walkthrough
+따라만 하세요
+
